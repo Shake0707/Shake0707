@@ -1,9 +1,15 @@
 ### Hi there 👋
 
 <em>💬 About me:</em>
-<p>My name is Shaxriyor. <b>MERN</b> stack developer with a focus on the <b>Front-end</b></p>
+<p>My name is Shaxriyor 😄 <b>MERN</b> steck developer with a focus on the <b>Front-end</b></p>
 
 <h1>✔ MERN steck developer ✔</h1>
+
+<h2>✨ Languages ✨</h2>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+</ul>
 
 <!--
 **Shake0707/Shake0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
