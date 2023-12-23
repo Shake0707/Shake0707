@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<em>💬 About me:</em>
 <p>My name is Shaxriyor 😄 <b>MERN</b> steck developer with a focus on the <b>Front-end</b></p>
 
 <h1>✔ MERN steck developer ✔</h1>
