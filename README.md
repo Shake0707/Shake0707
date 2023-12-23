@@ -2,7 +2,7 @@
 
 <h4>My name is Shaxriyor.</h4>
 
-<h1>MERN steck developer</h1>
+<h1>✔ MERN steck developer ✔</h1>
 
 <!--
 **Shake0707/Shake0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
