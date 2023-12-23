@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me!
+<em>About me:</em>
 <h4>My name is Shaxriyor.</h4>
 
 <h1>✔ MERN steck developer ✔</h1>
