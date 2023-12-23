@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <em>About me 💬:</em>
-<h5>My name is Shaxriyor. <b>MERN</b> stack developer with a focus on the <b>Front-end</b></h5>
+<p>My name is Shaxriyor. <b>MERN</b> stack developer with a focus on the <b>Front-end</b></p>
 
 <h1>✔ MERN steck developer ✔</h1>
 
