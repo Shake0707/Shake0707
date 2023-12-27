@@ -15,11 +15,17 @@
   <li>
     React
     <ul>
-      <h4>🛠 State menegment: 🛠</h4>
+      <hr/>
+      <h4>🛠 State menegment 🛠</h4>
       <li>Redux toolkit</li>
       <li>React query</li>
-      <h4>📍 Routing: 📍</h4>
+      <hr/>
+      <h4>📍 Routing 📍</h4>
       <li>React router dom</li>
+      <hr/>
+      <h4>🌟 Styling 🌟</h4>
+      <li>Module css</li>
+      <li>Styled components</li>
     </ul>
   </li>
   <li>Three.js</li>
