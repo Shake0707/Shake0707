@@ -15,7 +15,7 @@
   <li>
     React
     <ul>
-      <h5>🛠 State menegment: 🛠</h5>
+      <h4>🛠 State menegment: 🛠</h4>
       <li>Redux toolkit</li>
       <li>React query</li>
     </ul>
