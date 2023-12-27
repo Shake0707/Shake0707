@@ -12,7 +12,14 @@
 
 <h2>👀 Front-end 👀</h2>
 <ul>
-  <li>React</li>
+  <li>
+    React
+    <ul>
+      <h5>🛠 State menegment: 🛠</h5>
+      <li>Redux toolkit</li>
+      <li>React query</li>
+    </ul>
+  </li>
   <li>Three.js</li>
   <li>Paper.js</li>
 </ul>
