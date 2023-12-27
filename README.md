@@ -2,7 +2,7 @@
 
 <p>My name is Shaxriyor 😄 <b>MERN</b> steck developer with a focus on the <b>Front-end</b></p>
 
-<h1>✔ MERN steck developer ✔</h1>
+<h1> MERN steck developer </h1>
 
 <h2>✨ Languages ✨</h2>
 <ul>
