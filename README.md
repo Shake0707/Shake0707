@@ -35,7 +35,7 @@
     </ul>
   </li>
   <li>Three.js</li>
-  <li>Paper.js</li>
+  <li>Konva.js</li>
 </ul>
 
 <h2>🎞 Back-end 🎞</h2>
