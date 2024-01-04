@@ -34,8 +34,6 @@
       <hr/>
     </ul>
   </li>
-  <li>Three.js</li>
-  <li>Konva.js</li>
 </ul>
 
 <h2>🎞 Back-end 🎞</h2>
@@ -48,7 +46,10 @@
 </ul>
 <h2>Other</h2>
 <ul>
-  <li>Git</li>
+  <li>For 3D: Three.js</li>
+  <li>For 2D: Konva.js</li>
+  <li>Version control: Git</li>
+  <li>Particle js</li>
 </ul>
 
 <h3>👯 I’m looking to collaborate on web designer</h3>
