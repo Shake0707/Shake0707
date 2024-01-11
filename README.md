@@ -46,6 +46,7 @@
 </ul>
 <h2>Other</h2>
 <ul>
+  <li>OOP</li>
   <li>For 3D: Three.js</li>
   <li>For 2D: Konva.js</li>
   <li>Version control: Git</li>
