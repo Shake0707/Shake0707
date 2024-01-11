@@ -44,13 +44,21 @@
 <ul>
   <li>Mongo DB</li>
 </ul>
+<h3>🔧 Tools 🔧</h3>
+<ul>
+    <li>Vite</li>
+    <li>Webpack</li>
+</ul>
 <h2>Other</h2>
 <ul>
   <li>OOP</li>
-  <li>For 3D: Three.js</li>
-  <li>For 2D: Konva.js</li>
+  <h2>📙 Libs 📙</h2>
+  <ul>
+    <li>For 3D: Three.js</li>
+    <li>For 2D: Konva.js</li>
+    <li>Particle js</li>
+  </ul>
   <li>Version control: Git</li>
-  <li>Particle js</li>
 </ul>
 
 <h3>👯 I’m looking to collaborate on web designer</h3>
