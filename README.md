@@ -23,6 +23,9 @@
       <h4>📍 Routing 📍</h4>
         <li>React router dom</li>
       <hr/>
+      <h4>♻ Request ♻<h4/>
+        <li>Axios</li>
+      <hr/>
       <h4>🌟 Styling 🌟</h4>
         <li>Module css</li>
         <li>Styled components</li>
