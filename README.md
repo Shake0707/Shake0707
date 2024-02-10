@@ -47,11 +47,18 @@
 <ul>
   <li>Mongo DB</li>
 </ul>
+
+<h3>📱 Mobile Dev 📱</h2>
+<ul>
+  <li>React-native</li>
+</ul>
+
 <h3>🔧 Tools 🔧</h3>
 <ul>
     <li>Vite</li>
     <li>Webpack</li>
 </ul>
+
 <h2>Other</h2>
 <ul>
   <li>OOP</li>
