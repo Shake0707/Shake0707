@@ -74,6 +74,11 @@
 <h3>👯 I’m looking to collaborate on web designer</h3>
 <h3>📫 How to reach me: <a href="https://t.me/CanSayNO">Telegram</a></h3>
 
+<h3>Projects:</h3>
+<ul>
+  <a href="https://xunix.uz/">Xunix</li>
+</ul>
+
 <!--
 **Shake0707/Shake0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
