@@ -76,7 +76,8 @@
 
 <h3>Projects:</h3>
 <ul>
-  <a href="https://xunix.uz/" target="_blank">Xunix</li>
+  <li><a href="https://xunix.uz/" target="_blank">Xunix</li>
+  <li><a href="https://nick-info.uz/" target="_blank">Nick-info</li>
 </ul>
 
 <!--
