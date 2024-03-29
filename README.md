@@ -78,6 +78,7 @@
 <ul>
   <li><a href="https://xunix.uz/" target="_blank">Xunix</li>
   <li><a href="https://nick-info.uz/" target="_blank">Nick-info</li>
+    <li><a href="https://xeact.uz/">Xeact</a></li>
 </ul>
 
 <!--
