@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>My name is Shaxriyor 😄 <b>MERN</b> steck developer with a focus on the <b>Front-end</b></p>
+<p>My name is Shaxriyor 😄 <b>Full-steck</b> developer with a focus on the <b>Front-end</b></p>
 
-<h1> MERN steck developer </h1>
+<h1> Full-steck developer </h1>
 
 <h2>✨ Languages ✨</h2>
 <ul>
@@ -13,9 +13,19 @@
 <h2>👀 Front-end 👀</h2>
 <ul>
   <li>
+    Next-js
+    <ul>
+      <h4>🔁 Rendering 🔁</h4>
+        <li>CSR</li>
+        <li>SSR</li>
+        <li>SSG</li>
+        <li>ISR</li>
+    </ul>
+  </li>
+  <br/>
+  <li>
     React
     <ul>
-      <hr/>
       <h4>🛠 State menegment 🛠</h4>
         <li>Redux toolkit</li>
         <li>React query</li>
@@ -34,7 +44,6 @@
         <li>Custom hooks</li>
         <li>Codux</li>
         <li>Framer</li>
-      <hr/>
     </ul>
   </li>
 </ul>
