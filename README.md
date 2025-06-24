@@ -55,11 +55,13 @@
 <h3>📦 Data-base 📦</h3>
 <ul>
   <li>Mongo DB</li>
+  <li>PostgrSQL</li>
 </ul>
 
 <h3>📱 Mobile Dev 📱</h2>
 <ul>
   <li>React-native</li>
+  <li>React-native EXPO</li>
 </ul>
 
 <h3>🔧 Tools 🔧</h3>
